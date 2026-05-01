@@ -1,0 +1,6 @@
+{
+  "name": "AI Emergency Triage Orchestrator",
+  "description": "Production-grade multi-agent healthcare decision support system with real-time patient risk analysis, medical triage classification, and explainable AI reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
